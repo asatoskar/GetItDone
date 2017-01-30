@@ -1,2 +1,2 @@
 # GetItDone
-A minimalist To Do list web application
+A minimalist To Do list web application, created in 2015
